@@ -139,7 +139,7 @@ data/Churn_Modelling.csv
 
 **Hoshang Sheth**
 
-* Portfolio: [www.hoshang-portfolio.carrd.co](http://www.hoshang-portfolio.carrd.co)
+* Portfolio: [www.hoshang-portfolio-ai.vercel.app](http://www.hoshang-portfolio-ai.vercel.app)
 * GitHub: [www.github.com/hoshangsheth](http://www.github.com/hoshangsheth)
 * LinkedIn: [www.linkedin.com/in/hoshangsheth](http://www.linkedin.com/in/hoshangsheth)
 
